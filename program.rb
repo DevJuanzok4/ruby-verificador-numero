@@ -1,1 +1,2 @@
 
+puts "Digite um número:"
